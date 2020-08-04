@@ -46,3 +46,5 @@ __Some of the most popular methods for outlier detection are:__
 * ___Local Outlier Factor___ _-Non-Paramteric_
 * ___Elliptic Envelope___ _-Paramteric_
 * ___One-Class Support Vector Machines___ _-Non-Paramteric_
+
+_[Link](https://blog.clairvoyantsoft.com/mlmuse-approaches-to-outlier-detection-part-1-bd4c8faa4f24)_
