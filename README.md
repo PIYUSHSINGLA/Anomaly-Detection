@@ -40,9 +40,9 @@ __Some of the most popular methods for outlier detection are:__
 #### ___Few techniques already covered in OUTLIERS in Data-Preprocessing___
 
 #### ___Techniques discussed in this Space:___
-* ___Mahalanobis Distance___
-* ___DBSCAN___ _[Available in Unsupervised Learning]_
-* ___Isolation Forests___
-* ___Local Outlier Factor___
-* ___Elliptic Envelope___
-* ___One-Class Support Vector Machines___
+* ___Mahalanobis Distance___ _-Non-Paramteric_
+* ___DBSCAN___ _[Available in Unsupervised Learning]_ _-Non-Paramteric_
+* ___Isolation Forests___ _-Non-Paramteric_
+* ___Local Outlier Factor___ _-Non-Paramteric_
+* ___Elliptic Envelope___ _-Paramteric_
+* ___One-Class Support Vector Machines___ _-Non-Paramteric_
